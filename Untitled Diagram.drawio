@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-04T05:51:20.684Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="eKLano7-4VBxKYojsTPd" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-04T06:38:40.430Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="vts-eL0ii_tHAgJ1aZcl" version="22.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2327" dy="836" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,11 +109,11 @@
         <mxCell id="2OtdE11GlU1ttDjaYlMj-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=ERzeroToMany;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MhLtzDRJtPfGhHGrREuR-105" target="DBvovF7zLhZcRv6KDwWk-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Uozth5Lih3cispUeFP9Q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=ERmandOne;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MhLtzDRJtPfGhHGrREuR-105" target="2OtdE11GlU1ttDjaYlMj-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MhLtzDRJtPfGhHGrREuR-105" value="đăng ký" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-372" y="1100" width="126" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Uozth5Lih3cispUeFP9Q-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2OtdE11GlU1ttDjaYlMj-23" target="MhLtzDRJtPfGhHGrREuR-105">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2OtdE11GlU1ttDjaYlMj-23" value="Account Admin" style="whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-390" y="930" width="160" height="80" as="geometry" />
