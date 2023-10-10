@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T17:11:33.159Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="PYho9AXidAijRSxJSW8C" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T17:28:15.520Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="7e5XNJfw4cGefPd88aGm" version="22.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2510" dy="780" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2830" dy="780" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -577,7 +577,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yWXWun4D05fP4ufC5Xo--83" value="Họ tên" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1390" y="980" width="100" height="40" as="geometry" />
+          <mxGeometry x="1380" y="1010" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yWXWun4D05fP4ufC5Xo--84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.297;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yWXWun4D05fP4ufC5Xo--85" target="yWXWun4D05fP4ufC5Xo--81">
           <mxGeometry relative="1" as="geometry" />
@@ -589,7 +589,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yWXWun4D05fP4ufC5Xo--87" value="Địa chỉ&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1360" y="1030" width="100" height="40" as="geometry" />
+          <mxGeometry x="1350" y="1070" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yWXWun4D05fP4ufC5Xo--92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yWXWun4D05fP4ufC5Xo--93" target="yWXWun4D05fP4ufC5Xo--72">
           <mxGeometry relative="1" as="geometry">
@@ -651,11 +651,11 @@
         <mxCell id="yWXWun4D05fP4ufC5Xo--120" value="Số lượng sp" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2260" y="1420" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yWXWun4D05fP4ufC5Xo--127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yWXWun4D05fP4ufC5Xo--126" target="yWXWun4D05fP4ufC5Xo--81">
+        <mxCell id="yWXWun4D05fP4ufC5Xo--127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yWXWun4D05fP4ufC5Xo--126" target="yWXWun4D05fP4ufC5Xo--81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yWXWun4D05fP4ufC5Xo--126" value="SoCCCD" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1340" y="1090" width="100" height="40" as="geometry" />
+          <mxGeometry x="1510" y="1170" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yWXWun4D05fP4ufC5Xo--129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yWXWun4D05fP4ufC5Xo--128" target="yWXWun4D05fP4ufC5Xo--7">
           <mxGeometry relative="1" as="geometry">
